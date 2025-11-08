@@ -16,5 +16,11 @@
         "title": "luxpog",
         "link": "https://anoxle.github.io/bloxstrap-themes/launcher/luxpog/",
         "tags": ["YouTuber"]
+    },
+        {
+        "cover": "https://anoxle.github.io/resources/main/bloxstrap-themes/sheriff-car-erlc/cover.webp",
+        "title": "Sheriff Car (ER:LC)",
+        "link": "https://anoxle.github.io/bloxstrap-themes/launcher/sheriff-car-erlc/",
+        "tags": ["Game", "Vehicle", "Law Enforcement Vehicle", "Static"]
     }
 ]
